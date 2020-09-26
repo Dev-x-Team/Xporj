@@ -1,0 +1,33 @@
+<svg
+  width="20"
+  height="20"
+  viewBox="0 0 20 20"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  class="icon icon-nav-networking"
+>
+  <path
+    d="M8.19 11.81l-3.78 3.78M15.57 4.43l-3.76 3.76"
+    stroke="#005DFF"
+    stroke-width="1.25"
+  ></path>
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M3.08 18.79a1.87 1.87 0 1 0 .001-3.74 1.87 1.87 0 0 0 0 3.74zM16.92 4.95a1.87 1.87 0 1 0 0-3.74 1.87 1.87 0 0 0 0 3.74z"
+    stroke="#005DFF"
+    stroke-width="1.25"
+  ></path>
+  <path
+    d="M11.81 11.81l3.76 3.76M4.43 4.43L8.2 8.2"
+    stroke="#005DFF"
+    stroke-width="1.25"
+  ></path>
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M3.08 4.95a1.87 1.87 0 1 0 0-3.74 1.87 1.87 0 0 0 0 3.74zM16.92 18.79a1.87 1.87 0 1 0 0-3.74 1.87 1.87 0 0 0 0 3.74zM10 12.54a2.54 2.54 0 1 0 0-5.08 2.54 2.54 0 0 0 0 5.08z"
+    stroke="#005DFF"
+    stroke-width="1.25"
+  ></path>
+</svg>
